@@ -26,6 +26,11 @@ For Linux (tested on Arch Linux):
 sudo pip install -r requirements.txt
 ```
 
+For macOS (tested on macOS 14.x, arm64, Python 3.8)
+```
+python -m pip install -r requirements.txt
+```
+
 执行 ```akamTester.py```
 ```
 python3 akamTester.py
